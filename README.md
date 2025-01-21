@@ -35,5 +35,6 @@ Ensure the following tools are installed on your machine:
 #### 1. Clone the Repository  
 Use the following command to clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/riteshtiwari-2005/expensetracker
+cd expensetracker
+
